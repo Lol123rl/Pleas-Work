@@ -1,0 +1,7 @@
+AudioStreamPlayer3D
+Node
+AudioListener3D
+Label
+CollisionShape3D
+Area3D
+StaticBody3D
